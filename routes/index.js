@@ -5,7 +5,7 @@ var info = mongoose.model('infoModel');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express', number: '510-999-9999' });
+  res.render('index', { title: 'Express', number: '909-494-2620' });
 });
 
 router.get('/hide', function(req, res, next) {
